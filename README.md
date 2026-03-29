@@ -103,26 +103,4 @@ streamlit run app.py
 * ☁️ Cloud deployment (AWS / Azure)
 * 📱 Mobile dashboard support
 
----
 
-## 🤝 Contribution
-
-Contributions are welcome! Feel free to fork this repo and submit a pull request.
-
----
-
-## 📜 License
-
-This project is licensed under the MIT License.
-
----
-
-## 👨‍💻 Author
-
-**Rohan Mashere**
-
----
-
-## ⭐ Support
-
-If you like this project, give it a ⭐ on GitHub!
